@@ -1,0 +1,7 @@
+D:\test\.NET\LSPViolationApp\bin\Debug\LSPViolationApp.exe.config
+D:\test\.NET\LSPViolationApp\bin\Debug\LSPViolationApp.exe
+D:\test\.NET\LSPViolationApp\bin\Debug\LSPViolationApp.pdb
+D:\test\.NET\LSPViolationApp\obj\Debug\LSPViolationApp.csproj.AssemblyReference.cache
+D:\test\.NET\LSPViolationApp\obj\Debug\LSPViolationApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\LSPViolationApp\obj\Debug\LSPViolationApp.exe
+D:\test\.NET\LSPViolationApp\obj\Debug\LSPViolationApp.pdb
